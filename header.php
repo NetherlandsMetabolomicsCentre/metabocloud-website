@@ -93,7 +93,7 @@
 
 <body style="background-image:url('/img/bodyback.png'); background-repeat:no-repeat; background-attachment:fixed; background-position:top;">
 
-    <div class="container">
+    <div class="container" style="padding: 15px; background-color: #fff; border: thin solid #000;">
 
       <div class="masthead">
         <div class="navbar">
