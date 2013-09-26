@@ -42,7 +42,7 @@ blockquote {padding: 2px 0 2px 20px; border-left: 3px solid #999;}
 */
 
 /* BODY UND SEITE / BODY AND PAGE */
-body {font-family: verdana, sans-serif; font-size: 14px; line-height: 1.4em; color: #444;}
+body {font-family: verdana, sans-serif; font-size: 14px; line-height: 1.4em; color: #444; overflow-y: scroll;}
 #body {background: #fff; text-align: left;}
 #top {font-size: 10px; line-height: 10px;}
 
